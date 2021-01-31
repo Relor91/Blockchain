@@ -4,5 +4,5 @@ Here I created a code where I mine three blocks and add them to the Blockchain
 * Created a **BLOCK Class** and a **Mine** algorithm.
 * The **BLOCKS** are encrypted with the **SHA256** hash function and each block has it's difficulty increased by 1 starting from 4 zeros.
 * **Mining** will loop through all the blocks guessing their **Hash** and will stop when the guessed hash starts with the number of zeros previously set by the Mining Function, after that it will attach the Block to the **Blockchain**. The function is programmed to fail if the **Nonce** reaches 1000000000 trials.
-* For each **successfuly mined** Block, the Mine function will output the time needed to mine the block, the number of trials and the mined hash.
+* For each **successfully mined** Block, the Mine function will output the time needed to mine the block, the number of trials and the mined hash.
 * At the very end, the Blockchain is printed.<p>
