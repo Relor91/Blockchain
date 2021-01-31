@@ -1,4 +1,4 @@
-Here I created a code where I mine three blocks and add them to the Blockchain
+Here I wrote a code where I mine three blocks and add them to the Blockchain
 # Blockchain: Mining
 <img src="https://github.com/Relor91/Lorenzo_Portfolio/blob/main/images/Blockchain/BlockchainMining/BlockchainMining.JPG" alt="drawing" width="350" align="left"/><p>
 * Created a **BLOCK Class** and a **Mine** algorithm.
